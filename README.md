@@ -25,6 +25,10 @@ Explore a IA generativa para transformar descrições em imagens de forma intuit
 
 ![Image](https://github.com/user-attachments/assets/5f346ca7-1634-46a5-9d36-6268aaeaae1c)
 
+![Image](https://github.com/user-attachments/assets/95fcf5b4-25bd-4f8f-b991-875380667850)
+
+![Image](https://github.com/user-attachments/assets/bfdcb3a6-a359-4809-9f18-4724ebd365aa)
+
 ### 2️⃣ Extração de Texto de Imagens com OCR
 
 #### Configuração no Azure:
