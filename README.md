@@ -50,6 +50,14 @@ Explore a IA generativa para transformar descrições em imagens de forma intuit
 3. Vá até a ferramenta **OCR (Reconhecimento Óptico de Caracteres)**.
 4. Faça o upload de uma imagem para testar a extração de texto.
 
+## Input/Output 1 
+
+![Image](https://github.com/user-attachments/assets/248cae09-a51b-4971-9bcd-63c7db35dd47)
+
+## Input/Output 2
+
+![Image](https://github.com/user-attachments/assets/d1fe78a6-65c2-4e46-8cd1-6c72ba6554e4)
+
 ## ✅ Conclusão
 
 Este guia fornece um passo a passo para explorar a IA generativa com OpenAI e Copilot no Azure, cobrindo desde a criação de imagens até a extração de texto. Continue explorando e testando novas possibilidades!
