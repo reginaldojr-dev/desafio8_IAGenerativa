@@ -54,12 +54,11 @@ Explore a IA generativa para transformar descrições em imagens de forma intuit
 
 Este guia fornece um passo a passo para explorar a IA generativa com OpenAI e Copilot no Azure, cobrindo desde a criação de imagens até a extração de texto. Continue explorando e testando novas possibilidades!
 
-🖋️ **Créditos**
-
-Projeto desenvolvido para a Bootcamp Decola Tech 2025.
-
 > ⚠️ *Nota: Este repositório é apenas para fins educacionais e não possui afiliação oficial com Avanade, DIO ou suas empresas associadas.*
 
+## 📢 Autor
+
+Projeto desenvolvido por Reginaldo Goulart. 
 
 
 
